@@ -53,15 +53,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=momenqudaih&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Momen's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momenqudaih&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 Open to collaboration on ambitious product work — especially anything bilingual, healthcare, or AI-assisted.
