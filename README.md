@@ -1,12 +1,12 @@
 <div align="center">
-  <div>
-    <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logoColor=61DAFB&logo=react&color=20232A" alt="react" />
-    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
-    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-    <img src="https://img.shields.io/badge/-ShadCN_UI-black?style=for-the-badge&logoColor=white&logo=shadcnui&color=000000" alt="shadcnui" />
-    <img src="https://img.shields.io/badge/-Open_AI-black?style=for-the-badge&logoColor=white&logo=openai&color=412991" alt="openai" />
-  </div>
+  <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
+  <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
+  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logoColor=61DAFB&logo=react&color=20232A" alt="react" />
+  <img src="https://img.shields.io/badge/-Payload_CMS-black?style=for-the-badge&logoColor=white&logo=payloadcms&color=000000" alt="payloadcms" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logoColor=white&logo=postgresql&color=4169E1" alt="postgresql" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+  <img src="https://img.shields.io/badge/-Stripe-black?style=for-the-badge&logoColor=white&logo=stripe&color=635BFF" alt="stripe" />
+  <img src="https://img.shields.io/badge/-Open_AI-black?style=for-the-badge&logoColor=white&logo=openai&color=412991" alt="openai" />
 </div>
 
 <h1 align="center">Hi, I'm Momen Qudaih 👋</h1>
@@ -14,35 +14,60 @@
 <img src="profile-img.png" align="right" width="25%"/>
 
 ### 👨‍💻 About Me
-- **A passionate Front End Web Developer** with a focus on building modern, responsive, and user-friendly websites.
-- **From Palestine, Gaza** 🌍.
-- **Tech Enthusiast** who loves exploring new tools and frameworks to solve real-world problems.
+
+- **Full-Stack Engineer** building production SaaS products end-to-end — from database schema and access control to pixel-perfect, RTL-aware UI.
+- From **Palestine, Gaza** 🌍.
+- Currently engineering a **bilingual healthcare platform** — Arabic-first, with full RTL support.
+- Strong focus on **Arabic-first product experiences**, RTL layout systems, and internationalization done right.
 
 ---
 
 ### 🛠️ Tech Stack
-Here are some of the technologies and tools I work with:
 
-- **Frontend**: React, Next.js, Tailwind CSS, ShadCN UI
-- **Programming Languages**: TypeScript, JavaScript
-- **APIs & Tools**: OpenAI, RESTful APIs
-- **Version Control**: Git, GitHub
+**Frontend**
+- Next.js (App Router), React 19, TypeScript
+- Tailwind CSS, ShadCN UI, Radix primitives
+- next-intl, React Hook Form + Zod, TanStack Table, Recharts
+
+**Backend & Data**
+- Payload CMS 3, PostgreSQL, Drizzle ORM
+- Role-based access control, server actions, webhooks
+
+**Integrations**
+- Stripe (subscriptions, payments, webhooks)
+- OpenAI via Vercel AI SDK
+- WhatsApp messaging APIs
+- PDF generation with full RTL support
+
+**Tooling**
+- pnpm (workspaces), Vitest, Playwright, ESLint, Docker
+
+---
+
+### 🎯 What I'm Into
+
+- **Bilingual & RTL-first UX** — logical CSS properties, locale-prefixed routing, RTL-safe PDFs.
+- **Type-safe, end-to-end products** — shared types from DB → API → UI.
+- **Practical AI integrations** — using LLMs where they actually improve a clinical or product workflow.
+- **Domain-heavy SaaS** — healthcare, scheduling, and patient-facing workflows.
 
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=momenqudaih&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momenqudaih&layout=compact&theme=dark" alt="Top Languages" />
-</div>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=momenqudaih&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Momen's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momenqudaih&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
 ### 📫 Let's Connect
-Feel free to reach out to me for collaborations, questions, or just to say hi!
 
-- **Instagram**: [@prog_momen.qudaih](https://www.instagram.com/prog_momen.qudaih)
+Open to collaboration on ambitious product work — especially anything bilingual, healthcare, or AI-assisted.
+
 - **Email**: qudmomen@gmail.com
+- **Instagram**: [@prog_momen.qudaih](https://www.instagram.com/prog_momen.qudaih)
 
 <div align="center">
   <a href="https://app.daily.dev/momen_qudaih">
